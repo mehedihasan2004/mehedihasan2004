@@ -4,11 +4,11 @@
 
 I'm a Junior Web Developer based in Bangladesh. I'm very much passionate about coding. I like to learn new technologies.
 
-Skills: HTML / CSS / Tailwind / JavaScript / React JS / Next JS / Node JS / Express JS / MongoDB
+Skills: Typescript, Next Js, Node Js, Express Js, Tailwind, Mongo DB, Authentication
 
 - 🔭 I’m currently working on self projects. 
-- 🌱 I’m currently learning Typescript 
-- 💬 Ask me about JavaScript 
+- 🌱 I’m currently learning Backend technologies.
+- 💬 Ask me about Typescript
 - 📫 How to reach me: thisismehedihasan0.1@gmail.com 
 
 
