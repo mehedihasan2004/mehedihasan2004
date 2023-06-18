@@ -1,6 +1,5 @@
 ### Hi there 👋, It's Mehedi Hasan
 #### Junior Web Developer
-![Junior Web Developer](https://media.licdn.com/dms/image/D4E16AQHZn7OaGn2bhQ/profile-displaybackgroundimage-shrink_350_1400/0/1670503011660?e=1681948800&v=beta&t=yf-MeEGLg6Y-ap-VVSAZSOyEDcE2ZujEocv4G1UjzWA)
 
 I'm a Junior Web Developer based in Bangladesh. I'm very much passionate about coding. I like to learn new technologies.
 
