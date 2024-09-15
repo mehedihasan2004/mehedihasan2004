@@ -51,8 +51,10 @@ Frontend technologies-
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Stripe](https://img.shields.io/badge/stripe-%23646FFF.svg?style=for-the-badge&logo=stripe&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase Auth](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![NextAuth](https://img.shields.io/badge/nextauth-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Kinde Auth](https://img.shields.io/badge/kinde_auth-%23623CEA.svg?style=for-the-badge&logo=kinde&logoColor=white)
+![Clerk](https://img.shields.io/badge/clerk-%23000000.svg?style=for-the-badge&logo=clerk&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/react_router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/tanstack_query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white)
@@ -117,40 +119,26 @@ Tools-
 
  <hr/>
 
-<div align="left">
-  <a
-    href="https://www.instagram.com/thisismehedihasan0.1"
-    target="_blank"
-    rel="noopener noreferrer"  
-  >
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />  
+<div align="center">
+  <a href="https://www.instagram.com/thisismehedihasan0.1" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Mehedi Hasan's Instagram" />
   </a>
-<div align="left">
-  <a
-    href="https://discordapp.com/users/__mehedihasan"
-    target="_blank"
-    rel="noopener noreferrer"  
-  >
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://discordapp.com/users/__mehedihasan" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Mehedi Hasan's Discord" />
   </a>
-<div align="left">
-  <a
-    href="mailto:thisismehedihasan0.1@gmail.com"
-    target="_blank"
-    rel="noopener noreferrer"  
-  >
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:thisismehedihasan0.1@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Mehedi Hasan's Email" />
   </a>
-<div align="left">
-  <a
-    href="https://www.linkedin.com/in/-mehedihasan"
-    target="_blank"
-    rel="noopener noreferrer"  
-  >
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/-mehedihasan" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Mehedi Hasan's LinkedIn" />
+  </a>
+  <a href="https://x.com/__mehedihasan" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Mehedi Hasan's X" />
+  </a>
+  <a href="https://www.threads.net/@thisismehedihasan0.1" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Threads&logo=threads&label=&color=E6E6E6&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="Mehedi Hasan's Threads" />
+  </a>
+  <a href="https://www.facebook.com/thisismehedihasan0.1" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Mehedi Hasan's Facebook" />
   </a>
 </div>
-<br clear="both">
-
-
- 
