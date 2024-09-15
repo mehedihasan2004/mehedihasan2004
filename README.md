@@ -1,40 +1,131 @@
-<h1 align="center">Hi, I'm Mehedi Hasan</h1>
-<h3 align="center">Driven by a passion for innovation and problem-solving, I have spent nearly 2 years as a full stack developer, creating solutions that streamline processes and enhance user experiences. My journey from mechanical engineering to development showcases my dedication to building scalable and impactful products. I take pride in writing clean, efficient code and am always eager to learn and grow. My goal is to contribute to meaningful projects that push boundaries and make a difference. Let's work together to turn ideas into reality! 🚀</h3>
+<h2>Hello! It's a pleasure to have you here.</h2>
+<h3>I'm Mehedi (19 y.o)!</h3>
+<p>Driven by a passion for innovation and problem-solving, I have spent nearly 2 years as a <strong>Full Stack Developer</strong> from Dhaka, Bangladesh, creating solutions that streamline processes and enhance user experiences. My focus is on building scalable and impactful products.</p>
+<p>I take pride in writing clean, efficient code and am always eager to learn and grow. My goal is to contribute to meaningful projects that push boundaries and make a difference.</p>
+<p>Let's work together to turn ideas into reality!</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedihasan2004&label=Profile%20views&color=0e75b6&style=flat" alt="mehedihasan2004" /> </p>
+<hr/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedihasan2004" alt="mehedihasan2004" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedihasan2004&label=Profile%20views&color=0e75b6&style=flat" alt="mehedihasan2004" /></p>
 
-<p align="left"> <a href="https://twitter.com/__mehedihasan" target="blank"><img src="https://img.shields.io/twitter/follow/__mehedihasan?logo=twitter&style=for-the-badge" alt="__mehedihasan" /></a> </p>
+<hr/>
 
-- I’m currently working on Pulse. [Pulse](https://pulse-six-mu.vercel.app/)
+I'm currently learning: 
+<br/>
+<br/>
+![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-- I’m currently learning **Rust, Radis and Docker.**
+- I am currently working on [**Pulse,**](https://pulse-six-mu.vercel.app) an initiative aimed at simplifying the appointment booking process for patients through [**Pure Plus.**](https://pure-plus-web-frontend.vercel.app)
 
-- I’m trying to help patients to book appointments without hassle [Pure Plus](https://pure-plus-web-frontend.vercel.app)
+- If you would like to get in touch, please email me at **thisismehedihasan0.1@gmail.com**.
 
-- Here you'll find more information about me [https://v1mehedi-hasan.vercel.app/](https://v1mehedi-hasan.vercel.app/)
+- For a detailed overview of my experience and skills, please review my [**resume.**](https://drive.google.com/file/d/180RBCRjkygUKvn9NxZRLmAh_VztBMfDx/view?usp=sharing)
 
-- Curious About My Work? **MERN stack extends to TypeScript, Next.js, Prisma, and more.**
+- You can find additional information about my projects and achievements in my [**portfolio.**](https://v1mehedi-hasan.vercel.app)
 
-- How to reach me? **thisismehedihasan0.1@gmail.com**
+- Curious about my work? My expertise extends across the **MERN** stack, incorporating technologies such as **TypeScript, Next.js, Prisma,** and more.
 
-- Take a look on my resume [https://drive.google.com/file/d/180RBCRjkygUKvn9NxZRLmAh_VztBMfDx/view?usp=sharing](https://drive.google.com/file/d/180RBCRjkygUKvn9NxZRLmAh_VztBMfDx/view?usp=sharing)
+- Fun fact about me **I originally studied mechanical engineering but decided to exchange my wrenches for code!**
 
-- Fun fact about me **I originally studied mechanical engineering, but I traded in my wrenches for code!**
+<hr/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/__mehedihasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__mehedihasan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/-mehedihasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="-mehedihasan" height="30" width="40" /></a>
-<a href="https://fb.com/thisismehedihasan0.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thisismehedihasan0.1" height="30" width="40" /></a>
-</p>
+<h4>I'm working with:</h4>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+Languages-
+<br/>
+<br/>
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedihasan2004&show_icons=true&locale=en&layout=compact" alt="mehedihasan2004" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedihasan2004&show_icons=true&locale=en" alt="mehedihasan2004" /></p>
+Frontend technologies-
+<br/>
+<br/>
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Stripe](https://img.shields.io/badge/stripe-%23646FFF.svg?style=for-the-badge&logo=stripe&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![NextAuth](https://img.shields.io/badge/nextauth-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/react_router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/tanstack_query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/react_hook_form-%23EC5990.svg?style=for-the-badge&logo=react-hook-form&logoColor=white)
+![Axios](https://img.shields.io/badge/axios-%5C671DD3.svg?style=for-the-badge&logo=axios&logoColor=white)
+![Material UI](https://img.shields.io/badge/material_ui-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/ant_design-%230170FE.svg?style=for-the-badge&logo=ant-design&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwind_css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NextUI](https://img.shields.io/badge/nextui-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn_ui-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasan2004&" alt="mehedihasan2004" /></p>
+<br/>
+
+Backend technologies-
+<br/>
+<br/>
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%234169E1.svg?style=for-the-badge&logo=sql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/no_sql-%23E44C65.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/mongoose-%23880000.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
+![REST API](https://img.shields.io/badge/rest_api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Zod](https://img.shields.io/badge/zod-%2300BFFF.svg?style=for-the-badge&logo=zod&logoColor=white)
+![JWT](https://img.shields.io/badge/jwt-%23000000.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-%2339a848.svg?style=for-the-badge&logo=security&logoColor=white)
+
+<br/>
+
+Tools-
+<br/>
+<br/>
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Trello](https://img.shields.io/badge/trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![DrawSQL](https://img.shields.io/badge/drawsql-%23000000.svg?style=for-the-badge&logo=data-modeling&logoColor=white)
+![Prettier](https://img.shields.io/badge/prettier-%23FF69B4.svg?style=for-the-badge&logo=prettier&logoColor=white)
+![ESLint](https://img.shields.io/badge/eslint-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)
+![Husky](https://img.shields.io/badge/husky-%23428F7E.svg?style=for-the-badge&logo=git&logoColor=white)
+![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-%23F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![Bun](https://img.shields.io/badge/bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+
+
+<hr/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehedihasan2004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedihasan2004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+   <img src="https://streak-stats.demolab.com?user=mehedihasan2004&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+ <hr/>
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+<br clear="both">
+
+
+ 
