@@ -127,7 +127,7 @@ Tools-
   </a>
 <div align="left">
   <a
-    href=""
+    href="https://discordapp.com/users/__mehedihasan"
     target="_blank"
     rel="noopener noreferrer"  
   >
@@ -135,7 +135,7 @@ Tools-
   </a>
 <div align="left">
   <a
-    href=""
+    href="mailto:thisismehedihasan0.1@gmail.com"
     target="_blank"
     rel="noopener noreferrer"  
   >
@@ -143,7 +143,7 @@ Tools-
   </a>
 <div align="left">
   <a
-    href="-mehedihasan"
+    href="https://www.linkedin.com/in/-mehedihasan"
     target="_blank"
     rel="noopener noreferrer"  
   >
