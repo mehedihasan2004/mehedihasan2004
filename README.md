@@ -6,7 +6,7 @@
 
 <hr/>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=mehedihasan2004&label=Profile%20views&color=0e75b6&style=flat" alt="mehedihasan2004" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=zenmh&label=Profile%20views&color=0e75b6&style=flat" alt="zenmh" /></p>
 
 <hr/>
 
@@ -112,15 +112,15 @@ Tools-
 <hr/>
 
 <div align="center">
-  <img src="https://github-readme-stats-ouuan.vercel.app/api?username=mehedihasan2004&show_icons=true&theme=dark&hide_border=true" height="200" />
-  <img src="https://streak-stats.demolab.com?user=mehedihasan2004&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="200" />
+  <img src="https://github-readme-stats-ouuan.vercel.app/api?username=zenmh&show_icons=true&theme=dark&hide_border=true" height="200" />
+  <img src="https://streak-stats.demolab.com?user=zenmh&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="200" />
 </div>
 
 
  <hr/>
 
 <div align="center">
-  <a href="https://www.instagram.com/thisismehedihasan0.1" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/_zenmh" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Mehedi Hasan's Instagram" />
   </a>
   <a href="https://discordapp.com/users/__mehedihasan" target="_blank" rel="noopener noreferrer">
@@ -129,13 +129,13 @@ Tools-
   <a href="mailto:thisismehedihasan0.1@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Mehedi Hasan's Email" />
   </a>
-  <a href="https://www.linkedin.com/in/-mehedihasan" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/zenmh" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Mehedi Hasan's LinkedIn" />
   </a>
-  <a href="https://x.com/__mehedihasan" target="_blank" rel="noopener noreferrer">
+  <a href="https://x.com/_zenmh" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Mehedi Hasan's X" />
   </a>
-  <a href="https://www.threads.net/@thisismehedihasan0.1" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.threads.net/@_zenmh" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Threads&logo=threads&label=&color=E6E6E6&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="Mehedi Hasan's Threads" />
   </a>
   <a href="https://www.facebook.com/thisismehedihasan0.1" target="_blank" rel="noopener noreferrer">
